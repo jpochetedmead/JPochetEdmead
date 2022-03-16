@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+🔭 I’m currently working on:
+* Ecommerce Project https://github.com/jpochetedmead/Ecommerce-Project
+
+🌱 I’m currently learning: 
+* Java | intelliJ IDEA CE
+* Selenium | Eclipse
+* Dart | Flutter
+
 <!--
 **jpochetedmead/JPochetEdmead** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
