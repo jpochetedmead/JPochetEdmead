@@ -9,6 +9,8 @@
 * Selenium | Eclipse
 * Dart | Flutter
 
+![Quote](https://github-readme-quotes.herokuapp.com/quote?quoteCategory=programming)
+
 <!--
 **jpochetedmead/JPochetEdmead** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
