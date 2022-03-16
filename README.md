@@ -1,3 +1,4 @@
+![hi-nice-emoji](https://user-images.githubusercontent.com/39777664/158520019-9f78460f-5625-422b-b957-2dbeb9e2ad9f.gif)
 ### Hi there 👋
 
 🔭 I’m currently working on:
@@ -13,7 +14,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on ...![wow-emoji](https://user-images.githubusercontent.com/39777664/158519976-1451a492-5601-4074-983c-84bcedef69a2.gif)
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
