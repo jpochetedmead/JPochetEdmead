@@ -11,6 +11,18 @@
 
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?quoteCategory=programming)
 
+
+
+<img
+  src="https://github.com/jpochetedmead/<repository-name>/blob/<branch-name>/images/stat.svg"
+  alt="Alternative Text"
+/>
+Example:
+<img
+  src="https://github.com/avinal/avinal/blob/main/images/stat.svg"
+  alt="Avinal WakaTime Activity"
+/>
+
 <!--
 **jpochetedmead/JPochetEdmead** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
