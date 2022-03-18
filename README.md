@@ -9,6 +9,7 @@
 * Selenium | Eclipse
 * Dart | Flutter
 
+<!-- Programming Quotes -->
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?quoteCategory=programming)
 
 <!-- wakatime badge -->
@@ -18,12 +19,6 @@
 <img
   src="https://github.com/jpochetedmead/JPochetEdmead/blob/main/images/stat.svg"
   alt="Julio Pochet WakaTime Activity"
-/>
-
-Example:
-<img
-  src="https://github.com/avinal/avinal/blob/main/images/stat.svg"
-  alt="Avinal WakaTime Activity"
 />
 
 <!--
