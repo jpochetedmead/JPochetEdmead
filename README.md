@@ -11,8 +11,10 @@
 
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?quoteCategory=programming)
 
+<!-- wakatime badge -->
+<a href="https://wakatime.com/@2eb646ea-cc3e-49cb-a5a6-3c4aaad0ab3d"><img src="https://wakatime.com/badge/user/2eb646ea-cc3e-49cb-a5a6-3c4aaad0ab3d.svg" alt="Total time coded since Mar 16 2022" /></a>
 
-
+<!-- wakatime graph -->
 <img
   src="https://github.com/jpochetedmead/main/images/stat.svg"
   alt="Alternative Text"
