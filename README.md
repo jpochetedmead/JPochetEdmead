@@ -14,7 +14,7 @@
 
 
 <img
-  src="https://github.com/jpochetedmead/<repository-name>/blob/<branch-name>/images/stat.svg"
+  src="https://github.com/jpochetedmead/main/images/stat.svg"
   alt="Alternative Text"
 />
 Example:
