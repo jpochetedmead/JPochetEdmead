@@ -16,9 +16,10 @@
 
 <!-- wakatime graph -->
 <img
-  src="https://github.com/jpochetedmead/main/images/stat.svg"
-  alt="Alternative Text"
+  src="https://github.com/jpochetedmead/JPochetEdmead/blob/main/images/stat.svg"
+  alt="jpochetedmead WakaTime Activity"
 />
+
 Example:
 <img
   src="https://github.com/avinal/avinal/blob/main/images/stat.svg"
