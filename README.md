@@ -16,7 +16,7 @@
 
 <!-- wakatime graph -->
 <img
-  src="src="https://github.com/jpochetedmead/JPochetEdmead/blob/main/images/stat.svg""
+  src="src="https://github.com/jpochetedmead/JPochetEdmead/blob/main/images/stat.svg"
   alt="jpochetedmead WakaTime Activity"
 />
 
