@@ -8,7 +8,7 @@
 
 Computer Software Engineering Technology student at Thaddeus Stevens College of Technology expecting to graduate in May 2022.
 
-Programmer specialized in web development using multiple tools, frameworks and libraries both in frontend and backend. I pay a lot of attention to detail to generate best products.
+Programmer specialized in web development using multiple tools, frameworks, and libraries both in the frontend and backend. I pay a lot of attention to detail to generate the best products.
 
 💻 Languages and Tools: 🛠️
 
