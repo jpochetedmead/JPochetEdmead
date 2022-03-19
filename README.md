@@ -5,8 +5,6 @@
 📝 Feel free to contact me. I am always here ...
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966"><img src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="30" data-canonical-src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" style="max-width: 100%;">
 </a>
-<a href="https://github.com/jpochetedmead"><img src="https://camo.githubusercontent.com/5a7d678e7a9e5eb34468a66747436f09668570cd94029b3afccbe092dac99a6c/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f666f6c6c6f776572732f41686d61642d536177616c7165683f6c6162656c3d466f6c6c6f772532304d65267374796c653d736f6369616c" alt="Github"  style="max-width: 100%;">
-</a>
 
 Computer Software Engineering Technology student at Thaddeus Stevens College of Technology expecting to graduate on May 2022.
 
