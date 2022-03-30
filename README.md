@@ -10,9 +10,15 @@
   <img src="https://komarev.com/ghpvc/?username=jpochetedmead&label=Profile%20views&color=0e75b6&style=flat" alt="jpochetedmead" />
   <a href="https://wakatime.com/@2eb646ea-cc3e-49cb-a5a6-3c4aaad0ab3d"><img src="https://wakatime.com/badge/user/2eb646ea-cc3e-49cb-a5a6-3c4aaad0ab3d.svg"    alt="Total time coded since Mar 16 2022"/></a>
 </p>
-<p align="right"> <a href="https://twitter.com/expresspochet" target="blank"><img src="https://img.shields.io/twitter/follow/expresspochet?logo=twitter&style=for-the-badge" alt="expresspochet" /></a></p>
+<p align="right">
+  <a href="https://twitter.com/expresspochet" target="blank"><img src="https://img.shields.io/twitter/follow/expresspochet?logo=twitter&style=for-the-badge" alt="expresspochet" /></a>
+</p>
 
-<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jpochetedmead" alt="jpochetedmead"/></a></p>
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jpochetedmead" alt="jpochetedmead"/></a>
+</p>
+
+<hr>
 
 - 🔭 I’m currently working on: [Ecommerce Project](https://github.com/jpochetedmead/Ecommerce-Project)
 
@@ -79,11 +85,23 @@
 <h3>Support:</h3>
 <p align="center"><a href="https://www.buymeacoffee.com/jpochetedmead"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="jpochetedmead" /></a><a href="https://ko-fi.com/jpochetedmead"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="jpochetedmead" /></a></p>
 
-<br><br><br>
+<hr>
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=jpochetedmead&show_icons=true&locale=en&layout=compact" alt="jpochetedmead"/></p>
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=jpochetedmead&show_icons=true&locale=en" alt="jpochetedmead"/></p>
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=jpochetedmead&" alt="jpochetedmead"/></p>
+<div class="row">
+  <div class="column">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jpochetedmead&show_icons=true&locale=en&layout=compact" alt="jpochetedmead"/>
+  </div>
+  <div class="column">
+  <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/jpochetedmead/jpochetedmead/blob/main/devcard.svg" width="200" alt="Julio Pochet Edmead's Dev Card"/></a>
+  </div>
+</div>
+
+<p>
+  &nbsp;<img src="https://github-readme-stats.vercel.app/api?username=jpochetedmead&show_icons=true&locale=en" alt="jpochetedmead"/>
+</p>
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jpochetedmead&" alt="jpochetedmead"/>
+</p>
 
 <!-- wakatime graph -->
 <p>😄 My 7-Days WakaTime Activity:
