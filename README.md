@@ -92,7 +92,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jpochetedmead&show_icons=true&locale=en&layout=compact" alt="jpochetedmead"/>
   </div>
   <div class="column">
-  <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/jpochetedmead/jpochetedmead/blob/main/devcard.svg" width="200" alt="Julio Pochet Edmead's Dev Card"/></a>
+  <a href="https://app.daily.dev/jpochetedmead"><img src="https://github.com/jpochetedmead/jpochetedmead/blob/main/devcard.svg" width="200" alt="Julio Pochet Edmead's Dev Card"/></a>
   </div>
 </div>
 
