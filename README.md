@@ -89,10 +89,12 @@
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jpochetedmead&show_icons=true&locale=en&layout=compact" alt="jpochetedmead"/>
 
-<!-- #DevCard -->
+<!-- #DevCard 
   <a href="https://app.daily.dev/jpochetedmead"><img src="https://github.com/jpochetedmead/jpochetedmead/blob/main/devcard.svg" width="200" alt="Julio Pochet Edmead's Dev Card"/></a>
+-->
   
-  <a href="https://app.daily.dev/jpochetedmead"><img src="https://api.daily.dev/devcards/281f896ac5474b31b4107ae2614ebbc5.png?r=s16" width="400" alt="Julio Pochet Edmead's Dev Card"/></a>
+ <!-- #DevCard -->
+  <a href="https://app.daily.dev/jpochetedmead"><img src="https://api.daily.dev/devcards/281f896ac5474b31b4107ae2614ebbc5.png?r=s16" width="250" alt="Julio Pochet Edmead's Dev Card"/></a>
 
 <p>
   &nbsp;<img src="https://github-readme-stats.vercel.app/api?username=jpochetedmead&show_icons=true&locale=en" alt="jpochetedmead"/>
