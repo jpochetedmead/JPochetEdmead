@@ -40,7 +40,7 @@
 
 - 🤝 I’m looking for help with **building new professional connections.**
 
-- 💬 Ask me about **my side business ventures.**
+- 💬 Ask me about **Web Dev, Tech, App Dev, Travelling, Business Ventures.**
 
 - 📫 How to reach me: **jpe3841@gmail.com**
 
