@@ -3,7 +3,11 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Julio Pochet</h1>
-<h3 align="center">Computer Software Engineering Student at Thaddeus Stevens College of Technology.</h3>
+
+<h3 align="center">Current Information Technology Student at Central Penn College.</h3>
+
+<h3 align="center">Recent Software Engineering graduate at Thaddeus Stevens College of Technology.</h3>
+
 
 <!-- Visitor Counter & Wakatime Badge -->
 <p align="right">
