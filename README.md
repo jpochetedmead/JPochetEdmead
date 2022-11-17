@@ -37,7 +37,7 @@
 
 - 🚩 Highlights: Arctic Code Vault Contributor
 
-- 🤓 Interested: React Native | PHP | WordPress | Laravel
+- 🤓 Interested: React.js, jQuery, Node.js, WordPress, Adobe Photoshop
 
 - 👨‍💻 All of my projects are available at: [https://jpochetedmead.github.io/](https://jpochetedmead.github.io/)
 
@@ -49,11 +49,11 @@
 
 - 💬 Ask me about **Web Dev, Tech, App Dev, Travelling, Business Ventures.**
 
-- 📫 How to reach me: **jpe3841@gmail.com**
+- 📫 How to reach me: **JulioPochet@gmail.com**
 
 - 📄 Know about my experiences: [https://jpochetedmead.github.io/](https://jpochetedmead.github.io/)
 
-- ⚡ Fun fact: **Baseball & Chess Player**
+- ⚡ Fun fact: ** Baseball, Chess, and eSports Player **
 
 
 ### 📝 Blogs posts
