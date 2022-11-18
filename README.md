@@ -4,13 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Julio Pochet</h1>
 
-<h3 align="center">Current Information Technology Student at Central Penn College(CPC). - Bachelor of Science -</h3>
-
-<h3 align="center">Recent Computer Software Engineering Technology graduate at Thaddeus Stevens College of Technology(TSCT). - Associate's degree -</h3>
-
-<h3 align="center">Criminal Justice & First Response graduate at York Technical Institute(YTI). - Associate's degree -</h3>
-
-
+<h3 align="center">I recently graduated from Thaddeus Stevens College of Technology (TSCT) with an Associates degree in Software Engineering. Prior to that, I graduated from York Technical Institute (YTI) with an Associates degree in Criminal Justice & First Response. Currently, I'm pursuing a Bachelors degree in Information Technology at Central Penn College (CPC).</h3>
 
 <!-- Visitor Counter & Wakatime Badge -->
 <p align="right">
