@@ -23,6 +23,8 @@
 
 - 🔭 I’m currently working on: [Ecommerce Project](https://github.com/jpochetedmead/Ecommerce-Project)
 
+- 💡 My next project: [Subscription Based App](https://github.com/jpochetedmead/Subscription-Based-App)
+
 - 🌱 I’m currently learning: **Java | intelliJ IDEA CE | Selenium | Eclipse | Dart | Flutter**
 
 - 🧐 Knowledge of: Responsive web design, DOM, Object-Oriented Programming, data structures and algorithms.
