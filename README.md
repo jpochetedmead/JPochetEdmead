@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Julio Pochet</h1>
 
-<h3 align="center">I recently graduated from Thaddeus Stevens College of Technology (TSCT) with an Associates degree in Software Engineering. Prior to that, I graduated from York Technical Institute (YTI) with an Associates degree in Criminal Justice & First Response. Currently, I'm pursuing a Bachelors degree in Information Technology at Central Penn College (CPC).</h3>
+<h3 align="center">I recently graduated from Thaddeus Stevens College of Technology (TSCT) with an Associates degree in Software Engineering. Prior to that, I graduated from York Technical Institute (YTI) with an Associates degree in Criminal Justice & First Response. Currently, I'm pursuing a Bachelors degree in Software Development at Bellevue University.</h3>
 
 <!-- Visitor Counter & Wakatime Badge -->
 <p align="right">
